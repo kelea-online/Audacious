@@ -1,2 +1,2 @@
 # AudaciousMag
-Audacious Magazine Project
+Magazine Test
